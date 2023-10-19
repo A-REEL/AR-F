@@ -27,11 +27,11 @@
 <br />
 
     <div class="container">
-        <button onclick="redirectToIssuesPage()" class="animated-button">Go to Issues</button>
+        <button onclick="redirectToIssuesPage()" class="animated-button">SCRUM BOARD</button>
     </div>
     <script>
         function redirectToIssuesPage() {
-            window.location.href = 'https://github.com/e-shen2022/APCS_Blog/issues/53';
+            window.location.href = 'https://github.com/orgs/A-REEL/projects/2';
         }
     </script>
 
@@ -48,6 +48,21 @@
         <div class="name-col">
             <h1><a href="https://github.com/lunaiwa"><img src="../profile/luna.png" /></a></h1>
             <h3>Luna Iwazaki</h3>
+            <p1>highschool junior</p1>
+        </div>
+                <div class="name-col">
+            <h1><a href="https://github.com/Ekamjot-Kaire"><img src="../profile/Ekam.png" /></a></h1>
+            <h3>Ekam Kaire</h3>
+            <p1>highschool senior</p1>
+        </div>
+                <div class="name-col">
+            <h1><a href="https://github.com/raunak2007"><img src="../profile/Raunak.png" /></a></h1>
+            <h3>Raunak Mondal</h3>
+            <p1>highschool junior</p1>
+        </div>
+                <div class="name-col">
+            <h1><a href="https://github.com/aliyatang"><img src="../profile/Aliya.png" /></a></h1>
+            <h3>Aliya Tang</h3>
             <p1>highschool junior</p1>
         </div>
     </div>
